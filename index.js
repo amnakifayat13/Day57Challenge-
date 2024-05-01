@@ -1,0 +1,12 @@
+var val1 = "apple" > "pineapple";
+console.log(val1);
+var val2 = "2" > "12";
+console.log(val2);
+var val3 = undefined == null;
+console.log(val3);
+var val4 = undefined === null;
+console.log(val4);
+var val5 = null == "\n0\n";
+console.log(val5);
+var val6 = null === +"\n0\n";
+console.log(val6);
